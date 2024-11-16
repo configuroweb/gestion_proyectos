@@ -23,7 +23,7 @@ La aplicación tiene un coste de 15 USD y para su implementación requieres la b
 
 # Enlace demo de la aplicación
 
-https://mauriciosevilla.com/proyectos/admin/login.php
+https://demoscweb.com/proyectos/admin/login.php
 Usuario: configuroweb
 Clave: 1234abcd..
 
